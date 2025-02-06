@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error related to the `sort` function and type classes. The `bug.hs` file contains code that attempts to sort a string without defining an `Ord` instance for `Char`, leading to a type error.  The `bugSolution.hs` file provides a corrected version using appropriate type handling.
